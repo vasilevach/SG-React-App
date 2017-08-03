@@ -6,11 +6,11 @@ To install this project run by its [documents](https://github.com/werein/react) 
 ```javascript
 npm i
 ```
-* start webpack dev server on one terminal
+* build project
  ```javascript
-npm start
+npm run build
 ```
-* start the express server on another terminal
+* start the express server
 ```javascript
 npm run server
 ```
