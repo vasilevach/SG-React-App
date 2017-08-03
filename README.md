@@ -14,6 +14,7 @@ npm run build
 ```javascript
 npm run server
 ```
+* navigate to: http://localhost:8181
 
 # Few notes:
 * all requirements from the task are met
